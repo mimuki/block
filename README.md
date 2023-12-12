@@ -19,7 +19,7 @@ Blocks social media I've found myself tempted to use in unhealthy ways
 
 > `mimuki.net/block/2`
 
-Blocks every website, minus those "you're being redirected, but it's not a new webpage" pages. Useful for when you need a nudge to computer less.
+Blocks every website, minus those "you're being redirected, but it's not a new webpage" pages. Useful for when you need a nudge to computer less. And websites that I need to access in an emergency, because forcing loved ones to change platform is not cool, even if it's a bad platform.
 
 ### Manual config 
 
